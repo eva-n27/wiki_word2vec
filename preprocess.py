@@ -2,7 +2,7 @@
 # author: Zhengpeng Xiang
 # date: 2017/09/12
 # from https://github.com/panyang/Wikipedia_Word2vec/blob/master/v1/process_wiki.py
-# usage: 将中文的维基百科页面从zhwiki-latest-pages-articles.xml.bz2提取到zhwiki.text中
+# function: 将中文的维基百科页面从zhwiki-latest-pages-articles.xml.bz2提取到zhwiki.text中
 
 from __future__ import print_function
 

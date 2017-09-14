@@ -1,7 +1,7 @@
 # coding: utf-8
 # author: Zhengpeng Xiang
-# date: 2017/09/12
-# usage: 对zhwiki.simple.text进行分词处理
+# date: 2017/09/13
+# function: 对zhwiki.simple.text进行分词处理
 
 from pyltp import Segmentor
 import logging
