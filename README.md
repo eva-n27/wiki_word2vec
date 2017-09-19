@@ -1,0 +1,1 @@
+主要参考http://www.jianshu.com/p/ec27062bd453、https://segmentfault.com/a/1190000010129248和http://www.52nlp.cn/tag/gensim这三篇文章，直接使用的https://github.com/panyang/Wikipedia_Word2vec/tree/master/v1中的代码进行训练。
